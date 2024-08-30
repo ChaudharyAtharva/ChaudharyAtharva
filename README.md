@@ -2,7 +2,7 @@
 👀 I’m interested in web development, particularly in creating intuitive and responsive user interfaces.
 🌱 I’m currently learning advanced JavaScript frameworks such as React and Vue.js to enhance my development skills and build more dynamic applications.
 💞️ I’m looking to collaborate on open-source projects and internships where I can apply my skills in real-world scenarios and contribute to innovative solutions.
-📫 How to reach me: You can email me at atharva4803@gmail.com or conneect with me on GitHub
+📫 How to reach me: You can email me at atharva4803@gmail.com or connect with me on GitHub
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love exploring new places and have a keen interest in adventure and sports
 
